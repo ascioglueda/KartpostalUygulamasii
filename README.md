@@ -1,2 +1,2 @@
-# KartpostalUygulamasi
+# KartpostalUygulamasii
  Kartpostal Uygulaması
